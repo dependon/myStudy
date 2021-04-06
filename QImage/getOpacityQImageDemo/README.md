@@ -1,6 +1,6 @@
-### x11windowTestOpacity
+### getOpacityQImageDemo
 
-linux set x11window Opacity demo
+get one pic opacity png demo 
 
 ### Dependencies
 
